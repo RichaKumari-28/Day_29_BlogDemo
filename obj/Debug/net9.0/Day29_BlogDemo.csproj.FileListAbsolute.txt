@@ -94,3 +94,4 @@ C:\Users\ANIL\Day29_BlogDemo\obj\Debug\net9.0\refint\Day29_BlogDemo.dll
 C:\Users\ANIL\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.pdb
 C:\Users\ANIL\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.genruntimeconfig.cache
 C:\Users\ANIL\Day29_BlogDemo\obj\Debug\net9.0\ref\Day29_BlogDemo.dll
+C:\Users\ANIL\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.sourcelink.json
